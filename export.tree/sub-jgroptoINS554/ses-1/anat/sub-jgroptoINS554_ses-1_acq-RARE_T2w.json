@@ -1,8 +1,0 @@
-{
- "PulseSequenceType": "RARE",
- "RepetitionTime": 2.0,
- "Manufacturer": "Bruker BioSpin MRI GmbH",
- "NumberOfVolumesDiscardedByScanner": 0,
- "DelayAfterTrigger": 13.128,
- "FlipAngle": 90.0
-}
