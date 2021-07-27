@@ -1,0 +1,10 @@
+{
+ "TaskName": "opto",
+ "Manufacturer": "Bruker BioSpin MRI GmbH",
+ "PulseSequenceType": "EPI",
+ "DelayAfterTrigger": 40.816,
+ "RepetitionTime": 1.0,
+ "FlipAngle": 60.0,
+ "EchoTime": 0.0117,
+ "NumberOfVolumesDiscardedByScanner": 10
+}
